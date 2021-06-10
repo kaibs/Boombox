@@ -1,4 +1,6 @@
-# 3D printed two-way Boombox
+# WIP! This project still is in an early stage
+
+## 3D printed two-way Boombox
 
 Repository for a fully 3D-printed two-way Bluetooth-speaker.<br/><br/>
 <b>REMARK:</b> <i>This is just the documentation of my personal build and in no way a complete instruction to follow along. I provide everything I used to finish this build as an orientation for similar projects</i>
